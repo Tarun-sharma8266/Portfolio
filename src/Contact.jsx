@@ -54,6 +54,7 @@ export default function Contact() {
               <form onSubmit={postData} >
 
                 <div className="p-3 p-lg-5 border">
+                  
                   <div className="form-group row">
                     <div className="col-md-12">
                       <label htmlFor="name" className="text-black">Full Name <span className="text-danger">*</span></label>
